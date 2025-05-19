@@ -1,0 +1,1 @@
+# Assignment regarding OOP in Python - traditional OOP practice
